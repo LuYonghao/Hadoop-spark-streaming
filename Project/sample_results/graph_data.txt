@@ -1,0 +1,15 @@
+amazon-pos                               22
+amazon-neu                               28
+amazon-neg                               11
+Microsoft-pos                            25
+Microsoft-neu                            18
+Microsoft-neg                            10
+Google-pos                               9
+Google-neu                               17
+Google-neg                               1
+Samsung-pos                              12
+Samsung-neu                              15
+Samsung-neg                              7
+Apple-pos                                26
+Apple-neu                                20
+Apple-neg                                3

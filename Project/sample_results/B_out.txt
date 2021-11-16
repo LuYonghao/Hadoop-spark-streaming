@@ -1,0 +1,436 @@
+----------- 2021-06-20 20:06:05 -----------
+amazon-neu                               1
+Microsoft-pos                            1
+----------- 2021-06-20 20:06:10 -----------
+amazon-neu                               2
+Microsoft-pos                            1
+Google-neu                               1
+----------- 2021-06-20 20:06:15 -----------
+amazon-neu                               2
+Microsoft-pos                            1
+Microsoft-neg                            1
+Google-neu                               1
+----------- 2021-06-20 20:06:20 -----------
+amazon-neu                               2
+Microsoft-pos                            1
+Microsoft-neg                            1
+Google-neu                               1
+----------- 2021-06-20 20:06:25 -----------
+amazon-neu                               2
+Microsoft-pos                            2
+Microsoft-neu                            2
+Microsoft-neg                            1
+Google-neu                               2
+Apple-neu                                1
+----------- 2021-06-20 20:06:30 -----------
+amazon-neu                               2
+Microsoft-pos                            2
+Microsoft-neu                            2
+Microsoft-neg                            1
+Google-neu                               2
+Apple-neu                                1
+----------- 2021-06-20 20:06:35 -----------
+amazon-neu                               2
+Microsoft-pos                            2
+Microsoft-neu                            2
+Microsoft-neg                            1
+Google-neu                               2
+Apple-neu                                1
+----------- 2021-06-20 20:06:40 -----------
+----------- 2021-06-20 21:45:40 -----------
+----------- 2021-06-20 21:45:45 -----------
+amazon-neu                               1
+Microsoft-neu                            3
+----------- 2021-06-20 21:45:50 -----------
+amazon-neu                               2
+Microsoft-neu                            3
+----------- 2021-06-20 21:45:55 -----------
+amazon-neu                               5
+Microsoft-neu                            3
+Apple-pos                                1
+Apple-neu                                1
+----------- 2021-06-20 21:46:00 -----------
+amazon-neu                               6
+Microsoft-neu                            3
+Apple-pos                                1
+Apple-neu                                1
+----------- 2021-06-20 21:46:05 -----------
+amazon-neu                               7
+Microsoft-neu                            3
+Google-neu                               1
+Apple-pos                                1
+Apple-neu                                1
+----------- 2021-06-20 21:46:10 -----------
+amazon-neu                               8
+Microsoft-neu                            4
+Google-neu                               1
+Apple-pos                                1
+Apple-neu                                1
+----------- 2021-06-20 21:46:15 -----------
+amazon-neu                               8
+Samsung-neu                              2
+Microsoft-neu                            4
+Google-neu                               1
+Apple-pos                                1
+Apple-neu                                1
+----------- 2021-06-20 21:46:20 -----------
+amazon-neu                               8
+Samsung-neu                              2
+Microsoft-neu                            4
+Google-neu                               1
+Apple-pos                                1
+Apple-neu                                1
+----------- 2021-06-20 21:46:25 -----------
+amazon-neu                               9
+Samsung-neu                              2
+Microsoft-neu                            4
+Google-neu                               1
+Apple-pos                                1
+Apple-neu                                1
+----------- 2021-06-20 21:46:30 -----------
+amazon-neu                               10
+Samsung-neu                              2
+Microsoft-neu                            4
+Google-neu                               1
+Apple-pos                                2
+Apple-neu                                1
+----------- 2021-06-20 21:55:40 -----------
+amazon-neu                               1
+Microsoft-neu                            1
+----------- 2021-06-20 21:55:45 -----------
+amazon-neu                               1
+Microsoft-neu                            3
+----------- 2021-06-20 21:55:50 -----------
+amazon-neu                               1
+Microsoft-neu                            5
+----------- 2021-06-20 21:55:55 -----------
+amazon-neu                               2
+Microsoft-neu                            6
+Apple-neu                                1
+----------- 2021-06-20 21:56:00 -----------
+amazon-neu                               2
+Microsoft-neu                            7
+Apple-neu                                1
+----------- 2021-06-20 21:56:05 -----------
+amazon-neu                               3
+Microsoft-neu                            7
+Apple-neu                                1
+----------- 2021-06-20 21:56:10 -----------
+amazon-neu                               4
+Microsoft-neu                            9
+Apple-neu                                1
+----------- 2021-06-20 21:56:15 -----------
+amazon-neu                               4
+Microsoft-neu                            10
+Apple-neu                                1
+----------- 2021-06-20 21:56:20 -----------
+amazon-pos                               1
+amazon-neu                               5
+Microsoft-neu                            12
+Apple-neu                                1
+----------- 2021-06-20 21:56:25 -----------
+amazon-pos                               1
+amazon-neu                               6
+Microsoft-neu                            12
+Google-neu                               1
+Apple-neu                                2
+----------- 2021-06-20 21:56:30 -----------
+amazon-pos                               1
+amazon-neu                               7
+amazon-neg                               1
+Microsoft-neu                            12
+Google-neu                               1
+Apple-neu                                2
+----------- 2021-06-20 21:56:35 -----------
+amazon-pos                               1
+amazon-neu                               7
+amazon-neg                               1
+Microsoft-neu                            13
+Google-neu                               1
+Apple-neu                                2
+----------- 2021-06-20 21:56:40 -----------
+amazon-pos                               1
+amazon-neu                               7
+amazon-neg                               1
+Microsoft-neu                            13
+Google-neu                               2
+Apple-neu                                2
+----------- 2021-06-20 21:56:45 -----------
+amazon-pos                               1
+amazon-neu                               7
+amazon-neg                               1
+Microsoft-neu                            13
+Google-neu                               2
+Apple-neu                                2
+----------- 2021-06-20 21:56:50 -----------
+amazon-pos                               1
+amazon-neu                               10
+amazon-neg                               1
+Microsoft-neu                            14
+Google-neu                               2
+Apple-neu                                2
+----------- 2021-06-20 21:56:55 -----------
+amazon-pos                               1
+amazon-neu                               11
+amazon-neg                               1
+Microsoft-neu                            15
+Google-neu                               2
+Apple-neu                                2
+----------- 2021-06-20 21:57:00 -----------
+amazon-pos                               1
+amazon-neu                               12
+amazon-neg                               1
+Microsoft-neu                            19
+Google-neu                               2
+Apple-neu                                2
+----------- 2021-06-20 21:57:05 -----------
+amazon-pos                               1
+amazon-neu                               15
+amazon-neg                               1
+Microsoft-neu                            19
+Google-neu                               2
+Apple-neu                                3
+----------- 2021-06-20 21:57:10 -----------
+amazon-pos                               1
+amazon-neu                               17
+amazon-neg                               1
+Microsoft-neu                            19
+Google-neu                               2
+Apple-neu                                3
+----------- 2021-06-20 21:57:15 -----------
+amazon-pos                               1
+amazon-neu                               17
+amazon-neg                               1
+Microsoft-neu                            20
+Google-neu                               2
+Apple-neu                                3
+----------- 2021-06-20 21:57:20 -----------
+amazon-pos                               1
+amazon-neu                               18
+amazon-neg                               1
+Samsung-neu                              1
+Microsoft-neu                            21
+Google-neu                               2
+Apple-neu                                4
+----------- 2021-06-20 21:57:25 -----------
+amazon-pos                               1
+amazon-neu                               19
+amazon-neg                               1
+Samsung-neu                              1
+Microsoft-neu                            22
+Google-neu                               2
+Apple-neu                                5
+----------- 2021-06-23 18:14:25 -----------
+----------- 2021-06-23 18:14:30 -----------
+----------- 2021-06-23 18:14:35 -----------
+amazon-neu                               1
+Apple-pos                                1
+Apple-neu                                1
+----------- 2021-06-23 18:14:40 -----------
+amazon-neu                               4
+Microsoft-pos                            1
+Microsoft-neu                            1
+Microsoft-neg                            1
+Google-neu                               1
+Apple-pos                                1
+Apple-neu                                1
+----------- 2021-06-23 18:14:45 -----------
+amazon-neu                               4
+Microsoft-pos                            1
+Microsoft-neu                            2
+Microsoft-neg                            1
+Google-neu                               1
+Apple-pos                                1
+Apple-neu                                1
+----------- 2021-06-23 18:14:50 -----------
+amazon-pos                               1
+amazon-neu                               5
+Microsoft-pos                            1
+Microsoft-neu                            3
+Microsoft-neg                            1
+Google-pos                               1
+Google-neu                               1
+Apple-pos                                1
+Apple-neu                                1
+----------- 2021-06-23 18:14:55 -----------
+amazon-pos                               2
+amazon-neu                               5
+Microsoft-pos                            1
+Microsoft-neu                            3
+Microsoft-neg                            1
+Google-pos                               1
+Google-neu                               1
+Apple-pos                                1
+Apple-neu                                1
+----------- 2021-06-23 18:15:00 -----------
+amazon-pos                               2
+amazon-neu                               5
+Microsoft-pos                            1
+Microsoft-neu                            4
+Microsoft-neg                            1
+Google-pos                               1
+Google-neu                               2
+Apple-pos                                1
+Apple-neu                                1
+----------- 2021-06-23 18:15:05 -----------
+amazon-pos                               2
+amazon-neu                               5
+Microsoft-pos                            1
+Microsoft-neu                            6
+Microsoft-neg                            1
+Google-pos                               1
+Google-neu                               2
+Apple-pos                                1
+Apple-neu                                1
+----------- 2021-06-23 18:15:10 -----------
+amazon-pos                               2
+amazon-neu                               6
+Microsoft-pos                            2
+Microsoft-neu                            7
+Microsoft-neg                            1
+Google-pos                               1
+Google-neu                               2
+Apple-pos                                1
+Apple-neu                                1
+----------- 2021-06-23 18:15:15 -----------
+amazon-pos                               2
+amazon-neu                               8
+amazon-neg                               1
+Microsoft-pos                            2
+Microsoft-neu                            8
+Microsoft-neg                            1
+Google-pos                               1
+Google-neu                               3
+Apple-pos                                1
+Apple-neu                                1
+----------- 2021-06-23 18:28:15 -----------
+amazon-neu                               1
+Microsoft-pos                            1
+----------- 2021-06-23 18:28:20 -----------
+amazon-pos                               1
+amazon-neu                               2
+Microsoft-pos                            1
+----------- 2021-06-23 18:28:25 -----------
+amazon-pos                               2
+amazon-neu                               2
+Microsoft-pos                            1
+Microsoft-neu                            2
+Google-neu                               1
+Apple-neu                                2
+----------- 2021-06-23 18:28:30 -----------
+amazon-pos                               2
+amazon-neu                               4
+Microsoft-pos                            1
+Microsoft-neu                            2
+Google-neu                               1
+Apple-neu                                2
+----------- 2021-06-23 18:28:35 -----------
+amazon-pos                               4
+amazon-neu                               4
+Microsoft-pos                            1
+Microsoft-neu                            2
+Google-neu                               1
+Apple-neu                                2
+----------- 2021-06-23 18:28:40 -----------
+amazon-pos                               5
+amazon-neu                               4
+Samsung-neu                              1
+Microsoft-pos                            1
+Microsoft-neu                            2
+Google-neu                               1
+Apple-neu                                2
+----------- 2021-06-23 18:28:45 -----------
+amazon-pos                               5
+amazon-neu                               5
+Samsung-neu                              1
+Microsoft-pos                            1
+Microsoft-neu                            2
+Google-neu                               1
+Apple-neu                                2
+----------- 2021-06-23 18:28:50 -----------
+amazon-pos                               6
+amazon-neu                               5
+Samsung-neu                              1
+Microsoft-pos                            1
+Microsoft-neu                            2
+Google-neu                               1
+Apple-neu                                2
+----------- 2021-06-23 18:28:55 -----------
+amazon-pos                               7
+amazon-neu                               7
+Samsung-neu                              1
+Microsoft-pos                            1
+Microsoft-neu                            2
+Google-neu                               2
+Apple-neu                                2
+----------- 2021-06-23 18:29:00 -----------
+amazon-pos                               8
+amazon-neu                               7
+Samsung-neu                              1
+Microsoft-pos                            1
+Microsoft-neu                            2
+Google-neu                               2
+Apple-neu                                2
+----------- 2021-06-23 18:29:05 -----------
+amazon-pos                               9
+amazon-neu                               9
+Samsung-pos                              1
+Samsung-neu                              1
+Microsoft-pos                            1
+Microsoft-neu                            2
+Google-neu                               2
+Apple-neu                                3
+----------- 2021-06-23 18:29:10 -----------
+amazon-pos                               10
+amazon-neu                               10
+Samsung-pos                              1
+Samsung-neu                              1
+Microsoft-pos                            1
+Microsoft-neu                            2
+Google-neu                               2
+Apple-neu                                5
+----------- 2021-06-23 18:29:15 -----------
+amazon-pos                               10
+amazon-neu                               12
+Samsung-pos                              1
+Samsung-neu                              1
+Microsoft-pos                            1
+Microsoft-neu                            3
+Google-neu                               2
+Apple-neu                                5
+----------- 2021-06-23 18:29:20 -----------
+amazon-pos                               10
+amazon-neu                               13
+Samsung-pos                              1
+Samsung-neu                              1
+Microsoft-pos                            1
+Microsoft-neu                            4
+Google-neu                               2
+Apple-neu                                5
+----------- 2021-06-23 18:29:25 -----------
+amazon-pos                               11
+amazon-neu                               13
+Samsung-pos                              1
+Samsung-neu                              1
+Microsoft-pos                            1
+Microsoft-neu                            5
+Google-neu                               2
+Apple-neu                                5
+----------- 2021-06-23 18:29:30 -----------
+amazon-pos                               11
+amazon-neu                               13
+Samsung-pos                              1
+Samsung-neu                              1
+Microsoft-pos                            1
+Microsoft-neu                            7
+Google-neu                               2
+Apple-neu                                5
+----------- 2021-06-23 18:29:35 -----------
+amazon-pos                               11
+amazon-neu                               13
+Samsung-pos                              1
+Samsung-neu                              1
+Microsoft-pos                            1
+Microsoft-neu                            7
+Google-neu                               2
+Apple-neu                                5

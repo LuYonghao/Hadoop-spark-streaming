@@ -1,0 +1,484 @@
+----------- 2021-06-20 19:50:25 -----------
+#HappyFathersDay                         1
+#FathersDay                              6
+----------- 2021-06-20 19:50:30 -----------
+#HappyFathersDay                         1
+#HappyFathersDay2021                     2
+#FathersDay                              28
+----------- 2021-06-20 19:50:35 -----------
+#HappyFathersDay                         1
+#HappyFathersDay2021                     4
+#FathersDay                              42
+----------- 2021-06-20 19:50:40 -----------
+#HappyFathersDay                         2
+#HappyFathersDay2021                     7
+#FathersDay                              64
+----------- 2021-06-20 19:50:45 -----------
+#HappyFathersDay                         2
+#HappyFathersDay2021                     8
+#FathersDay                              74
+----------- 2021-06-20 19:50:50 -----------
+#dad                                     1
+#FathersDay2021                          1
+#HappyFathersDay                         2
+#HappyFathersDay2021                     11
+#FathersDay                              86
+----------- 2021-06-20 19:50:55 -----------
+#dad                                     1
+#FathersDay2021                          1
+#HappyFathersDay                         2
+#HappyFathersDay2021                     17
+#FathersDay                              98
+----------- 2021-06-20 19:51:00 -----------
+#dad                                     1
+#HappyFathersDay                         2
+#FathersDay2021                          2
+#HappyFathersDay2021                     22
+#FathersDay                              111
+----------- 2021-06-20 19:51:05 -----------
+#dad                                     1
+#HappyFathersDay                         2
+#FathersDay2021                          3
+#HappyFathersDay2021                     22
+#FathersDay                              138
+----------- 2021-06-20 19:51:10 -----------
+#dad                                     1
+#HappyFathersDay                         2
+#FathersDay2021                          5
+#HappyFathersDay2021                     26
+#FathersDay                              161
+----------- 2021-06-20 19:51:15 -----------
+#dad                                     1
+#HappyFathersDay                         3
+#FathersDay2021                          5
+#HappyFathersDay2021                     29
+#FathersDay                              177
+----------- 2021-06-20 19:51:20 -----------
+#dad                                     1
+#HappyFathersDay                         4
+#FathersDay2021                          5
+#HappyFathersDay2021                     32
+#FathersDay                              198
+----------- 2021-06-20 19:51:25 -----------
+#dad                                     1
+#FathersDay2021                          6
+#HappyFathersDay                         7
+#HappyFathersDay2021                     36
+#FathersDay                              217
+----------- 2021-06-20 19:51:30 -----------
+#dad                                     1
+#FathersDay2021                          7
+#HappyFathersDay                         9
+#HappyFathersDay2021                     39
+#FathersDay                              241
+----------- 2021-06-20 19:51:35 -----------
+#dad                                     1
+#FathersDay2021                          7
+#HappyFathersDay                         10
+#HappyFathersDay2021                     41
+#FathersDay                              257
+----------- 2021-06-20 19:51:40 -----------
+#dad                                     1
+#FathersDay2021                          7
+#HappyFathersDay                         10
+#HappyFathersDay2021                     45
+#FathersDay                              273
+----------- 2021-06-20 19:58:40 -----------
+#FathersDay                              2
+----------- 2021-06-20 19:58:45 -----------
+#HappyFathersDay                         1
+#HappyFathersDay2021                     3
+#FathersDay                              17
+----------- 2021-06-20 19:58:50 -----------
+#HappyFathersDay                         2
+#HappyFathersDay2021                     3
+#FathersDay                              24
+----------- 2021-06-20 19:58:55 -----------
+#FathersDay2021                          1
+#HappyFathersDay                         3
+#HappyFathersDay2021                     7
+#FathersDay                              37
+----------- 2021-06-20 19:59:00 -----------
+#dad                                     1
+#FathersDay2021                          2
+#HappyFathersDay                         3
+#HappyFathersDay2021                     8
+#FathersDay                              48
+----------- 2021-06-20 19:59:05 -----------
+#dad                                     1
+#FathersDay2021                          4
+#HappyFathersDay                         6
+#HappyFathersDay2021                     9
+#FathersDay                              66
+----------- 2021-06-20 19:59:10 -----------
+#dad                                     1
+#HappyFathersDay                         6
+#FathersDay2021                          6
+#HappyFathersDay2021                     13
+#FathersDay                              83
+----------- 2021-06-20 20:03:05 -----------
+----------- 2021-06-20 20:03:10 -----------
+----------- 2021-06-20 20:03:15 -----------
+----------- 2021-06-20 20:03:20 -----------
+----------- 2021-06-20 20:03:25 -----------
+----------- 2021-06-20 20:03:30 -----------
+----------- 2021-06-20 20:03:35 -----------
+----------- 2021-06-20 20:03:40 -----------
+----------- 2021-06-20 20:04:40 -----------
+#FathersDay2021                          1
+#HappyFathersDay                         3
+#HappyFathersDay2021                     3
+#FathersDay                              9
+----------- 2021-06-20 20:04:45 -----------
+#dad                                     1
+#FathersDay2021                          1
+#HappyFathersDay                         4
+#HappyFathersDay2021                     8
+#FathersDay                              24
+----------- 2021-06-20 20:04:50 -----------
+#dad                                     1
+#FathersDay2021                          1
+#HappyFathersDay                         4
+#HappyFathersDay2021                     12
+#FathersDay                              42
+----------- 2021-06-20 20:04:55 -----------
+#dad                                     2
+#FathersDay2021                          2
+#HappyFathersDay                         4
+#HappyFathersDay2021                     13
+#FathersDay                              59
+----------- 2021-06-20 20:05:00 -----------
+#dad                                     2
+#FathersDay2021                          3
+#HappyFathersDay                         4
+#HappyFathersDay2021                     15
+#FathersDay                              75
+----------- 2021-06-20 20:05:05 -----------
+#dad                                     2
+#HappyFathersDay                         4
+#FathersDay2021                          4
+#HappyFathersDay2021                     17
+#FathersDay                              93
+----------- 2021-06-20 20:05:10 -----------
+#dad                                     2
+#HappyFathersDay                         5
+#FathersDay2021                          5
+#HappyFathersDay2021                     21
+#FathersDay                              108
+----------- 2021-06-20 20:05:15 -----------
+#dad                                     3
+#FathersDay2021                          7
+#HappyFathersDay                         8
+#HappyFathersDay2021                     24
+#FathersDay                              116
+----------- 2021-06-20 20:05:20 -----------
+#dad                                     3
+#FathersDay2021                          7
+#HappyFathersDay                         11
+#HappyFathersDay2021                     28
+#FathersDay                              127
+----------- 2021-06-20 20:05:25 -----------
+#dad                                     3
+#FathersDay2021                          7
+#HappyFathersDay                         12
+#HappyFathersDay2021                     31
+#FathersDay                              140
+----------- 2021-06-20 20:17:30 -----------
+#HappyFathersDay                         2
+#HappyFathersDay2021                     3
+#FathersDay                              5
+----------- 2021-06-20 20:17:35 -----------
+#dad                                     1
+#FathersDay2021                          1
+#HappyFathersDay                         3
+#HappyFathersDay2021                     5
+#FathersDay                              13
+----------- 2021-06-20 20:17:40 -----------
+#dad                                     1
+#FathersDay2021                          2
+#HappyFathersDay                         4
+#HappyFathersDay2021                     7
+#FathersDay                              28
+----------- 2021-06-20 20:17:45 -----------
+#dad                                     2
+#FathersDay2021                          2
+#HappyFathersDay                         8
+#HappyFathersDay2021                     11
+#FathersDay                              46
+----------- 2021-06-20 20:17:50 -----------
+#dad                                     3
+#FathersDay2021                          3
+#HappyFathersDay                         8
+#HappyFathersDay2021                     12
+#FathersDay                              62
+----------- 2021-06-20 20:17:55 -----------
+#dad                                     3
+#FathersDay2021                          3
+#HappyFathersDay                         11
+#HappyFathersDay2021                     18
+#FathersDay                              77
+----------- 2021-06-20 20:18:00 -----------
+#dad                                     3
+#FathersDay2021                          4
+#HappyFathersDay                         13
+#HappyFathersDay2021                     22
+#FathersDay                              97
+----------- 2021-06-20 20:18:05 -----------
+#dad                                     3
+#FathersDay2021                          6
+#HappyFathersDay                         15
+#HappyFathersDay2021                     27
+#FathersDay                              111
+----------- 2021-06-20 20:18:10 -----------
+#dad                                     3
+#FathersDay2021                          7
+#HappyFathersDay                         15
+#HappyFathersDay2021                     31
+#FathersDay                              130
+----------- 2021-06-20 20:18:15 -----------
+#dad                                     3
+#FathersDay2021                          15
+#HappyFathersDay                         18
+#HappyFathersDay2021                     35
+#FathersDay                              155
+----------- 2021-06-20 21:36:15 -----------
+#HappyFathersDay2021                     3
+#FathersDay                              9
+----------- 2021-06-20 21:36:20 -----------
+#FathersDay2021                          2
+#HappyFathersDay2021                     6
+#FathersDay                              21
+----------- 2021-06-20 21:36:25 -----------
+#HappyFathersDay                         1
+#FathersDay2021                          2
+#HappyFathersDay2021                     12
+#FathersDay                              26
+----------- 2021-06-20 21:36:30 -----------
+#HappyFathersDay                         1
+#FathersDay2021                          2
+#HappyFathersDay2021                     14
+#FathersDay                              33
+----------- 2021-06-20 21:36:35 -----------
+#HappyFathersDay                         1
+#FathersDay2021                          3
+#HappyFathersDay2021                     19
+#FathersDay                              48
+----------- 2021-06-20 21:36:40 -----------
+#HappyFathersDay                         1
+#FathersDay2021                          3
+#HappyFathersDay2021                     22
+#FathersDay                              64
+----------- 2021-06-20 21:36:45 -----------
+#HappyFathersDay                         1
+#FathersDay2021                          4
+#HappyFathersDay2021                     24
+#FathersDay                              77
+----------- 2021-06-20 21:36:50 -----------
+#HappyFathersDay                         1
+#FathersDay2021                          5
+#HappyFathersDay2021                     27
+#FathersDay                              92
+----------- 2021-06-20 21:36:55 -----------
+#HappyFathersDay                         1
+#FathersDay2021                          5
+#HappyFathersDay2021                     33
+#FathersDay                              103
+----------- 2021-06-20 21:37:00 -----------
+----------- 2021-06-23 18:08:35 -----------
+----------- 2021-06-23 18:08:40 -----------
+----------- 2021-06-23 18:08:45 -----------
+#FathersDay                              1
+----------- 2021-06-23 18:08:50 -----------
+#FathersDay                              1
+----------- 2021-06-23 18:08:55 -----------
+#FathersDay                              1
+----------- 2021-06-23 18:09:00 -----------
+#FathersDay                              1
+----------- 2021-06-23 18:09:05 -----------
+#FathersDay                              2
+----------- 2021-06-23 18:09:10 -----------
+#FathersDay                              2
+----------- 2021-06-23 18:09:15 -----------
+#FathersDay                              2
+----------- 2021-06-23 18:09:20 -----------
+#FathersDay                              3
+----------- 2021-06-23 18:09:25 -----------
+#FathersDay                              3
+----------- 2021-06-23 18:09:30 -----------
+----------- 2021-06-23 18:13:10 -----------
+#WTCFinal                                3
+#WTC2021Final                            8
+#EURO2020                                10
+#INDvNZ                                  11
+----------- 2021-06-23 18:13:15 -----------
+#Birevimoyunu                            1
+#WTCFinal                                12
+#WTC2021Final                            25
+#EURO2020                                34
+#INDvNZ                                  39
+----------- 2021-06-23 18:13:20 -----------
+#Birevimoyunu                            3
+#WTCFinal                                23
+#WTC2021Final                            42
+#INDvNZ                                  56
+#EURO2020                                80
+----------- 2021-06-23 18:13:25 -----------
+#Birevimoyunu                            4
+#WTCFinal                                33
+#WTC2021Final                            54
+#INDvNZ                                  74
+#EURO2020                                119
+----------- 2021-06-23 18:13:30 -----------
+#Birevimoyunu                            4
+#WTCFinal                                45
+#WTC2021Final                            72
+#INDvNZ                                  88
+#EURO2020                                168
+----------- 2021-06-23 18:13:35 -----------
+#Birevimoyunu                            4
+#WTCFinal                                53
+#WTC2021Final                            93
+#INDvNZ                                  103
+#EURO2020                                206
+----------- 2021-06-23 18:13:40 -----------
+#Birevimoyunu                            4
+#WTCFinal                                58
+#WTC2021Final                            109
+#INDvNZ                                  118
+#EURO2020                                247
+----------- 2021-06-23 18:13:45 -----------
+#Birevimoyunu                            4
+#WTCFinal                                70
+#WTC2021Final                            129
+#INDvNZ                                  141
+#EURO2020                                276
+----------- 2021-06-23 18:13:50 -----------
+----------- 2021-06-23 18:21:15 -----------
+#WTCFinal                                2
+#INDvNZ                                  4
+#WTC2021Final                            5
+#EURO2020                                19
+----------- 2021-06-23 18:21:20 -----------
+#Birevimoyunu                            1
+#WTCFinal                                12
+#WTC2021Final                            12
+#INDvNZ                                  20
+#EURO2020                                48
+----------- 2021-06-23 18:21:25 -----------
+#Birevimoyunu                            2
+#WTCFinal                                26
+#WTC2021Final                            34
+#INDvNZ                                  40
+#EURO2020                                72
+----------- 2021-06-23 18:21:30 -----------
+#Birevimoyunu                            2
+#WTCFinal                                32
+#WTC2021Final                            50
+#INDvNZ                                  60
+#EURO2020                                107
+----------- 2021-06-23 18:21:35 -----------
+#Birevimoyunu                            2
+#WTCFinal                                45
+#WTC2021Final                            67
+#INDvNZ                                  84
+#EURO2020                                133
+----------- 2021-06-23 18:21:40 -----------
+#Birevimoyunu                            2
+#WTCFinal                                52
+#WTC2021Final                            83
+#INDvNZ                                  110
+#EURO2020                                160
+----------- 2021-06-23 18:21:45 -----------
+#Birevimoyunu                            2
+#WTCFinal                                61
+#WTC2021Final                            98
+#INDvNZ                                  133
+#EURO2020                                191
+----------- 2021-06-23 18:40:50 -----------
+----------- 2021-06-23 18:40:55 -----------
+#WTCFinal                                5
+#WTC2021Final                            8
+#INDvNZ                                  23
+#EURO2020                                31
+----------- 2021-06-23 18:41:00 -----------
+#Birevimoyunu                            1
+#WTCFinal                                8
+#WTC2021Final                            18
+#INDvNZ                                  44
+#EURO2020                                64
+----------- 2021-06-23 18:41:05 -----------
+#Birevimoyunu                            2
+#WTCFinal                                13
+#WTC2021Final                            28
+#INDvNZ                                  69
+#EURO2020                                89
+----------- 2021-06-23 18:41:10 -----------
+#Birevimoyunu                            4
+#WTCFinal                                21
+#WTC2021Final                            36
+#INDvNZ                                  90
+#EURO2020                                115
+----------- 2021-06-23 18:41:15 -----------
+----------- 2021-07-13 22:55:05 -----------
+----------- 2021-07-13 22:55:10 -----------
+----------- 2021-07-13 22:55:15 -----------
+----------- 2021-07-13 22:55:20 -----------
+----------- 2021-07-13 22:55:25 -----------
+----------- 2021-07-13 22:55:30 -----------
+----------- 2021-07-13 22:55:35 -----------
+----------- 2021-07-13 22:55:40 -----------
+----------- 2021-07-13 23:01:00 -----------
+----------- 2021-07-13 23:03:30 -----------
+#COVID19                                 1
+#MasterChef                              2
+#SOSCuba                                 7
+#SalveSeQuemPuder                        24
+----------- 2021-07-13 23:03:35 -----------
+----------- 2021-07-13 23:24:10 -----------
+#SOSCuba                                 1
+#SalveSeQuemPuder                        7
+----------- 2021-07-13 23:24:15 -----------
+#COVID19                                 3
+#MasterChef                              5
+#SOSCuba                                 18
+#SalveSeQuemPuder                        45
+----------- 2021-07-13 23:24:20 -----------
+#COVID19                                 7
+#MasterChef                              10
+#SOSCuba                                 32
+#SalveSeQuemPuder                        85
+----------- 2021-07-13 23:24:25 -----------
+#COVID19                                 12
+#MasterChef                              14
+#SOSCuba                                 53
+#SalveSeQuemPuder                        113
+----------- 2021-07-13 23:24:30 -----------
+#COVID19                                 13
+#MasterChef                              20
+#SOSCuba                                 74
+#SalveSeQuemPuder                        157
+----------- 2021-07-13 23:24:35 -----------
+#COVID19                                 19
+#MasterChef                              24
+#SOSCuba                                 91
+#SalveSeQuemPuder                        200
+----------- 2021-07-13 23:24:40 -----------
+#COVID19                                 26
+#MasterChef                              28
+#SOSCuba                                 105
+#SalveSeQuemPuder                        244
+----------- 2021-07-13 23:24:45 -----------
+#COVID19                                 32
+#MasterChef                              36
+#SOSCuba                                 125
+#SalveSeQuemPuder                        287
+----------- 2021-07-13 23:24:50 -----------
+#MasterChef                              38
+#COVID19                                 40
+#SOSCuba                                 147
+#SalveSeQuemPuder                        318
+----------- 2021-07-13 23:24:55 -----------
+#MasterChef                              44
+#COVID19                                 45
+#SOSCuba                                 165
+#SalveSeQuemPuder                        350
